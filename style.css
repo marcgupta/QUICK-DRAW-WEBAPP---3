@@ -1,0 +1,81 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-image:url("Quick Draw.png");
+    background-size: 1400px;
+}
+
+#show_sketch{
+    float: right;
+}
+p{
+    font-family: raleway;
+    font-size: 25px;
+    color: black;
+    font-family: raleway;
+font-weight: bolder;
+}
+#draw{
+    font-family: raleway;
+    font-size: 25px;
+    font-family: raleway;
+    margin-left: 1px;
+font-weight: bolder;
+}
+
+.text {
+
+margin-top: 120px;
+margin-left: 5px;
+font-family: raleway;
+font-weight: bolder;
+
+}
+
+span {
+
+font-family: raleway;
+font-weight: bolder;
+
+}
+
+.button {
+            
+    border-radius: 50px;
+    background-color: darkgrey;
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 110px;
+    border-color: rgba(255, 255, 255, 0);
+    font-family: Nunito;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background-color 2s ease-out 100ms;
+    transition: color 2s ease-out 100ms;
+    color: black;
+    
+    }
+
+    .button:hover {
+    
+        border-radius: 50px;
+        font-size: 15px;
+        padding: 10px;
+        margin-left: 110px;
+        margin-top: 20px;
+        background-color: rgb(71, 71, 71);
+        border-color: rgba(255, 255, 255, 0);
+        font-family: Nunito;
+        font-weight: bold;
+        color: white;
+        
+        }
